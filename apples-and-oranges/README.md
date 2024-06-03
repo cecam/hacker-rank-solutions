@@ -1,4 +1,3 @@
-````markdown
 # Problema del Conteo de Frutas en la Casa de Sam
 
 ## Descripción del Problema
@@ -75,7 +74,6 @@ function countApplesAndOranges(s, t, a, b, apples, oranges) {
   console.log(verifyPosition(oranges, b));
 }
 ```
-````
 
 Claro, aquí tienes la descripción paso a paso en lenguaje Markdown:
 
