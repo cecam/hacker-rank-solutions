@@ -75,22 +75,7 @@ function countApplesAndOranges(s, t, a, b, apples, oranges) {
 }
 ```
 
-Claro, aquí tienes la descripción paso a paso en lenguaje Markdown:
-
 ### Función: `countApplesAndOranges`
-
-#### Parámetros de Entrada:
-
-1. `s`: inicio del intervalo de la casa (posición más a la izquierda).
-2. `t`: fin del intervalo de la casa (posición más a la derecha).
-3. `a`: posición del árbol de manzanas.
-4. `b`: posición del árbol de naranjas.
-5. `apples`: un array que contiene las distancias a las que caen las manzanas desde el árbol de manzanas.
-6. `oranges`: un array que contiene las distancias a las que caen las naranjas desde el árbol de naranjas.
-
-#### Propósito:
-
-La función cuenta cuántas manzanas y naranjas caen en el intervalo de la casa.
 
 #### Descripción Paso a Paso:
 
